@@ -1,4 +1,4 @@
-### Hello, my name is Adam Lindley 👋
+### Hello 👋
 
 - 🔭 I’m currently working on my portfolio website
 - 🌱 I’m currently learning JavaScript & React
