@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Adam Lindley</h1>
 <h3 align="center">A passionate frontend developer from the UK</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adaml98&column=-1&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C" alt="adaml98" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adaml98&column=-1&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C" alt="adaml97" /></a> </p>
 
 - 🔭 I’m currently working on **my portfolio**
 
