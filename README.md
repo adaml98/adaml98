@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Adam Lindley</h1>
-<h3 align="center">A passionate frontend developer from the UK</h3>
+<h3 align="center">A passionate developer from the UK</h3>
 
 <p align="center"> 🔭 I’m currently working on <b>my portfolio</b> </p>
 
